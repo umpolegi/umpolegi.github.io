@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://umpolegi.github.io/sitemap.html.gz
+Sitemap: https://umpolegi.github.io/app/sitemap.html.gz
+Sitemap: https://umpolegi.github.io/assets/sitemap.html.gz
+Sitemap: https://umpolegi.github.io/css/sitemap.html.gz
+Sitemap: https://umpolegi.github.io/includes/sitemap.html.gz
+Sitemap: https://umpolegi.github.io/item/sitemap.html.gz
+Sitemap: https://umpolegi.github.io/src/sitemap.html.gz
